@@ -1,10 +1,10 @@
 👋 Hi, I'm Darbaz Ali 
 
-**Mobile Application Developer** | Flutter Enthusiast 🚀    
+**Mobile Application Developer** | Flutter Developer 🚀    
 
 📱 Building smart &amp; modern mobile apps
 
-🎯 Skilled in Dart, UI/UX design, Firebase
+🎯 Skilled in Dart, UI/UX design, Firebase and Graphic design
 
 🌱 Currently learning advanced Flutter architecture 
 
