@@ -8,8 +8,11 @@
 
 🌱 Currently learning advanced Flutter architecture 
 
-📫 Reach me: darbazdev@gmail.com
+[![Instagram](https://cdn-icons-png.flaticon.com/512/174/174855.png)](https://www.instagram.com/darbaz.alii/)
+&nbsp;
+[![Email](https://cdn-icons-png.flaticon.com/512/732/732200.png)](mailto:darbazdev@gmail.com)
+&nbsp;
+[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/darbaz-ali-ab821b173/)
 
-![Instagram](https://www.instagram.com/darbaz.alii/)]([www.instagram.com/](https://www.instagram.com/))
 
-![Profile views](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=darbazali&label=Profile%20views&color=0e75b6&style=flat)
